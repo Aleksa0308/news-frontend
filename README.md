@@ -1,5 +1,12 @@
 # news_frontend
 
+## A News Website made using Vue.js
+ * Axios used for connecting to a backend API service to fatch data
+ * Router using for navigating the website
+ * Handled login/logut with JWT tokens
+ * Component based
+ * Custom CSS
+
 ## Project setup
 ```
 npm install
